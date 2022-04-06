@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently studying at Izmir Institute of Technology
 - 📫 Contact me via:
--    - [Email: ](nurbala788788@gmail.com) 
--    - [LinkedIn: ](https://www.linkedin.com/in/nurbala-heybatov/)  
 
+     - [<img align="left" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/b59c6740b63b302f0dd69840cd0400de932700ee/img/linkedin-dark.svg"
+ />](https://www.linkedin.com/in/nurbala-heybatov/)  
 
 
 
