@@ -14,4 +14,3 @@
  <p align="center"><img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybtli&theme=radical&layout=compact" /></p>
 </div>
 
-[Linkedin](https://www.linkedin.com/in/nurbala-heybatov/)
