@@ -11,7 +11,7 @@
      - [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/LinkedIN_white.svg"
  />](https://www.linkedin.com/in/nurbala-heybatov/)
  
-       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg"/>](nurbala788788@gmail.com)
+       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg"/>](mailto:nurbala788788@gmail.com)
        
        [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg"/>](https://www.facebook.com/nurbala.heybatov.778/)
 
