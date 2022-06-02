@@ -13,7 +13,7 @@
  
        [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg"/>](nurbala788788@gmail.com)
        
-       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg"/>]([nurbala788788@gmail.com](https://www.facebook.com/nurbala.heybatov.778/))
+       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg"/>](https://www.facebook.com/nurbala.heybatov.778/)
 
 
 
