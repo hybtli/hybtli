@@ -8,8 +8,12 @@
 - 🌱 I’m currently studying at Izmir Institute of Technology
 - 📫 Contact me via:
 
-     - [<img align="left" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/b59c6740b63b302f0dd69840cd0400de932700ee/img/linkedin-dark.svg"
+     - [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/LinkedIN_white.svg"
  />](https://www.linkedin.com/in/nurbala-heybatov/)
+ 
+       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg"/>](nurbala788788@gmail.com)
+       
+       [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg"/>]([nurbala788788@gmail.com](https://www.facebook.com/nurbala.heybatov.778/))
 
 
 
