@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/hybtli/hybtli/main/headerName.svg" alt="Nurbala Heybatov" />
+</h1>
+
 ### Hi there 👋, I'm Nurbala
 
 
@@ -5,7 +9,7 @@
 - 📫 Contact me via:
 
      - [<img align="left" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/b59c6740b63b302f0dd69840cd0400de932700ee/img/linkedin-dark.svg"
- />](https://www.linkedin.com/in/nurbala-heybatov/)  
+ />](https://www.linkedin.com/in/nurbala-heybatov/)
 
 
 
