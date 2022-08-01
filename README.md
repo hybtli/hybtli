@@ -15,6 +15,9 @@
        [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg"/>](https://www.facebook.com/nurbala.heybatov.778/)
        
        [<img align="left" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Discord_white.svg"/>](https://discordapp.com/users/706579771735146654)
+       
+       
+ - ![views](https://komarev.com/ghpvc/?username=hybtli&style=plastic&color=blueviolet)
 
 
 
