@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/hybtli/hybtli/main/headerName.svg" alt="Nurbala Heybatov" />
 </h1>
 
+
+
 ### Hi there 👋, I'm Nurbala
 
 
@@ -21,7 +23,13 @@
 
 
 <div align="center" style="display: flex; flex-direction: row;">
- <p align="center"><img class="img" align="center" src="https://github-readme-stats.vercel.app/api?username=hybtli&show_icons=true&theme=radical" /></p>
- <p align="center"><img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybtli&theme=radical&layout=compact&langs_count=6" /></p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hybtli&theme=discord" alt="hybtli" /></a></p>
+</div>
+
+---
+
+<div>
+  <img class="img" align="left" src="https://github-readme-stats.vercel.app/api?username=hybtli&show_icons=true&theme=radical" />
+  <img class="img" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybtli&theme=radical&layout=compact&langs_count=6" />
 </div>
 
