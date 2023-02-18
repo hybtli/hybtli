@@ -30,6 +30,6 @@
 
 <div>
   <img class="img" align="left" src="https://github-readme-stats.vercel.app/api?username=hybtli&show_icons=true&theme=radical" />
-  <img class="img" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybtli&theme=radical&layout=compact&langs_count=6" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybtli&theme=radical&layout=compact&langs_count=6" />
 </div>
 
