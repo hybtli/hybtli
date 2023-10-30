@@ -23,7 +23,7 @@
 
 
 <div align="center" style="display: flex; flex-direction: row;">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hybtli&theme=radical&column=8" alt="hybtli" /></a></p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hybtli&theme=radical&column=9" alt="hybtli" /></a></p>
 </div>
 
 ---
